@@ -1,0 +1,10 @@
+/* styles/global.css */
+.react-datepicker-popper {
+    z-index: 9999 !important;
+  }
+  
+  .react-datepicker {
+    font-size: 14px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  }
+  
